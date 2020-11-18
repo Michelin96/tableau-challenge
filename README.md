@@ -1,5 +1,6 @@
 # tableau-challenge
 Creating a Story Dashboard for NYC Citi Bike data
+
 # There and Back - A Cyclists Trail
 
 The bottom line for any company is to evaluate its profitability. While this data does not include monetary values, the usage numbers may indicate Citi Bike’s success. The focus of this analysis is to evaluate the age and user type of New York City bicyclists. Citi Bike users are either Customers with a 24 hour or 3 day pass, or Subscribers with an annual pass. 
