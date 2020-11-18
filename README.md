@@ -24,4 +24,4 @@ The vast majority of New York City is less that 45 years old. Grouped by age, ri
 This finding may be useful for targeting ads to a certain demographic. For example, persons around the age of 50 are more likely have children that would be influenced by their parents usage of Citi Bike, thereby increasing ridership. 
 
 ## Story Visulizations
-<a href = "https://public.tableau.com/profile/michelle3708#!/vizhome/CitiBikeAnalysis_16054772226260/CyclistsTrail?publish=yes">Cylists Tail Graphs in Tableau</a>
+<a href = "https://public.tableau.com/profile/michelle3708#!/vizhome/CitiBikeAnalysis_16054772226260/CyclistsTrail?publish=yes">Cylists Trail Graphs in Tableau</a>
