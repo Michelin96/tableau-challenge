@@ -13,9 +13,7 @@ Trip data from the NYC Citi Bike program has been collected since its inception 
 
 ## Subscriber Trip Time
 
-The correlation between higher trips counts and lower trip times is a good indication that subscribers use this program to commute to work. Subscriber usage took a dramatic fall in April 2020, which would also correlate to the “lockdown” that started mid March. Though the number of trips fell, the average trip time did not change all that much. Customer trips duration increased during the same time period.
-
-In spite of the hit, by September subscriber trips almost doubled since January. It seems that using Citi Bike was preferable to public transportation. 
+The correlation between higher trips counts and lower trip times is a good indication that subscribers use this program to commute to work. Subscriber usage took a dramatic fall in April 2020, which would also correlate to the “lockdown” that started mid March. Though the number of trips fell, the average trip time did not change all that much, another indication that most subcribers could making the same daily trips. Customer trip duration increased during the same time period. In spite of the hit, by September subscriber trips almost doubled since January. It seems that using Citi Bike was preferable to public transportation. 
 
 ## Trips Taken by Age
 
